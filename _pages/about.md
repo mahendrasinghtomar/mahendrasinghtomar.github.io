@@ -22,9 +22,9 @@ For the list of publications, visit [Google Scholar](https://scholar.google.com/
 
 ## Projects:
 
+* [Numerical over-approximation of, optimal feedback data rate for set invariance, via finite abstractions](https://github.com/mahendrasinghtomar/Invariance_Entropy_upper_bounds)
 * [Automated lane keeping and obstacle avoidance for vehicles using symbolic controllers](https://github.com/mahendrasinghtomar/Vehicle_LaneKeeping_SymbolicControl)
 
 * [Time to access symbolic control input via Scarab (a microarchitecture simulator)](https://github.com/mahendrasinghtomar/Symbolic_Controller_Access_time_via_microarchitecture_Simulator)
 
-* [SymReach](https://github.com/mahendrasinghtomar/SymReach): a C++ tool for the computation of over-approximation of reachable sets of continuous time nonlinear systems. Also see the publication: [ARCH-COMP18 Category Report:
-Continuous and Hybrid Systems with Nonlinear Dynamics](https://easychair.org/publications/open/gjfh).
+* [SymReach](https://github.com/mahendrasinghtomar/SymReach): a C++ tool for the computation of over-approximation of reachable sets of continuous time nonlinear systems. 
