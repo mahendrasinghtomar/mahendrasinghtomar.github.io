@@ -19,8 +19,9 @@ I received PhD degree from [Department of Computer Science](https://www.ifi.uni-
 For the list of publications, visit [Google Scholar](https://scholar.google.com/citations?user=EvhDPWoAAAAJ&hl=en).
 
 ---
-Projects
-- 
+
+## Projects:
+
 * [Automated lane keeping and obstacle avoidance for vehicles using symbolic controllers](https://github.com/mahendrasinghtomar/Vehicle_LaneKeeping_SymbolicControl)
 
 * [Time to access symbolic control input via Scarab (a microarchitecture simulator)](https://github.com/mahendrasinghtomar/Symbolic_Controller_Access_time_via_microarchitecture_Simulator)
