@@ -15,3 +15,15 @@ I received PhD degree from [Department of Computer Science](https://www.ifi.uni-
 **PhD thesis**: [Invariance feedback entropy of uncertain nonlinear control systems](https://edoc.ub.uni-muenchen.de/28710/1/Tomar_Mahendra_Singh.pdf). 
 
 **M.Tech. thesis**: [Experimental Evaluation of Methods of Reachable Set Computation in Context of Symbolic Controller Synthesis](http://mahendrasinghtomar.github.io/files/MTech_thesis_MahendraSinghTomar.pdf)
+
+For the list of publications, visit [Google Scholar](https://scholar.google.com/citations?user=EvhDPWoAAAAJ&hl=en).
+
+---
+Projects
+- 
+* [Automated lane keeping and obstacle avoidance for vehicles using symbolic controllers](https://github.com/mahendrasinghtomar/Vehicle_LaneKeeping_SymbolicControl)
+
+* [Time to access symbolic control input via Scarab (a microarchitecture simulator)](https://github.com/mahendrasinghtomar/Symbolic_Controller_Access_time_via_microarchitecture_Simulator)
+
+* [SymReach](https://github.com/mahendrasinghtomar/SymReach): a C++ tool for the computation of over-approximation of reachable sets of continuous time nonlinear systems. Also see the publication: [ARCH-COMP18 Category Report:
+Continuous and Hybrid Systems with Nonlinear Dynamics](https://easychair.org/publications/open/gjfh).
