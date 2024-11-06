@@ -191,7 +191,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   saved_pages:
-    ouput: true
+    output: true
     permalink: /:collection/:path/
 
 
